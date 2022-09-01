@@ -1,0 +1,2 @@
+,InstanceId,SourceRegion,ResourceType,InstanceType,Architecture,PlatformName
+0,i-05da25e411ae08b8b,eu-west-1,AWS::EC2::Instance,t2.micro,x86_64,
